@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collectionviewapp", "collectionviewapp\collectionviewapp.csproj", "{A677EC47-9016-41EB-A98F-FE37C5DC0DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A677EC47-9016-41EB-A98F-FE37C5DC0DFE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A677EC47-9016-41EB-A98F-FE37C5DC0DFE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A677EC47-9016-41EB-A98F-FE37C5DC0DFE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A677EC47-9016-41EB-A98F-FE37C5DC0DFE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A677EC47-9016-41EB-A98F-FE37C5DC0DFE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A677EC47-9016-41EB-A98F-FE37C5DC0DFE}.Release|iPhone.Build.0 = Release|iPhone
+		{A677EC47-9016-41EB-A98F-FE37C5DC0DFE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A677EC47-9016-41EB-A98F-FE37C5DC0DFE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
